@@ -1,0 +1,2 @@
+#!/bin/bash
+mv -v $(ls | grep -E '[[:upper:]]') "/tmp/u"
